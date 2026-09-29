@@ -1,6 +1,6 @@
 {
-  "version": "3.4.0",
-  "asset": "https://github.com/hope-joe-instinct/ghl-tab-renamer-dist/releases/download/v3.4.0/GHL-Tab-Renamer-3.4.0.zip",
-  "sha256": "2155bf8e628770effd7d98fd3526e7bc03126d6b98d46e1e1534e6f42f88294a",
-  "notes": "Bundled client inventory removed. Existing Chrome extension storage and paired-device tokens are retained when updating the same extension ID."
+  "version": "3.5.0",
+  "asset": "https://github.com/hope-joe-instinct/ghl-tab-renamer-dist/releases/download/v3.5.0/GHL-Tab-Renamer-3.5.0.zip",
+  "sha256": "8c1f84af26de9056a5f6e7e3ea754755dac1b684fa4f367cc94750fa94aa5a36",
+  "notes": "Smart symbol-tolerant copy matching (exact, symbol-insensitive, and word-order tolerant) plus an optional paired cloud Jev check for remaining unmatched lines. Existing Chrome extension storage and paired-device tokens are retained when updating the same extension ID."
 }
