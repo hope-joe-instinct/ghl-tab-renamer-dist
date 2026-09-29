@@ -1,6 +1,6 @@
 # GHL Tab Renamer
 
-Chrome extension package and one-line Windows installer. Version 3.4.0.
+Chrome extension package and one-line Windows installer. Version 3.5.0.
 
 ## Install or update on each Windows PC
 
